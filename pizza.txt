@@ -6,3 +6,5 @@ pizza sauce
 veggies
 peperoni
 cheese
+
+add dough and spread sauce then cheese and pepperoni
